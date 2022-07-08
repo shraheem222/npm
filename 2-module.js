@@ -12,6 +12,8 @@ require("./2-mind-grenade");
 
 console.log(data);
 
+
+
 sayHi(`susan`);
 sayHi(names.john);
 sayHi(names.peter);

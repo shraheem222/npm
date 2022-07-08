@@ -3,6 +3,7 @@ const path = require('path')
 // return sererate according to the platform
 console.log(path.sep);
 
+
 // join path 
 const filePath = path.join('/content/', 'subfolder', 'test.txt');
 console.log(filePath);

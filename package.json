@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "superhero": "^2.11.7",
-    "superheroes": "^3.0.0"
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
   },
   "name": "node-fundaments",
   "version": "1.0.0",
